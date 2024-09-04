@@ -1,4 +1,5 @@
 ### Constructing a semantic categorization generation pipeline
+---------------------------
 #### 1. Retrieve grammar pattern information from an Online dictionary
 - parser.ipynb
   
